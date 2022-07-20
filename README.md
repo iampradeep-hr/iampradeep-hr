@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm नमस्ते (Namaste)🙏🏻, I'm Pradeep!</h1>
-<h3 align="center">A passionate Android developer/Competitive coder from India</h3>
+<h1 align="left">Hi 👋, I'm नमस्ते (Namaste)🙏🏻, I'm Pradeep!</h1>
+<h3 align="left">A passionate Android developer/Competitive coder from India</h3>
 
 - 📫 How to reach me **iampradeephr@gmail.com**
 
