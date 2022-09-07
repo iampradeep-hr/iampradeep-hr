@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampradeep-hr&show_icons=true&locale=en&layout=compact" alt="iampradeep-hr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampradeep-hr&show_icons=true&locale=en" alt="iampradeep-hr" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampradeep-hr&" alt="iampradeep-hr" /></p>
