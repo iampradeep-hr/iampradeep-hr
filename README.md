@@ -5,6 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://www.linkedin.com/in/pradeep-hr/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="https://www.linkedin.com/in/pradeep-hr/" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/iampradeephr" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="https://www.linkedin.com/in/pradeep-hr/" height="30" width="40" /></a>
 
 
